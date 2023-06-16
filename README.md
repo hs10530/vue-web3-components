@@ -59,27 +59,3 @@ initWallet(walletOptions)
 isDark // boolean which indicates current state of "dark mode"
 toggleDark() // toggles the isDark boolean
 ```
-
-## Changelog 📈
-
-Please see our [releases](https://github.com/meemalabs/web3-vue/releases) page for more information on what has changed recently.
-
-## Contributing 💪🏼
-
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
-
-## Community 🏝
-
-For help, discussion about best practices, or any other conversation that would benefit from being searchable:
-
-[Web3 Vue on GitHub](https://github.com/meemalabs/web3-vue/discussions)
-
-For casual chit-chat with others using this package:
-
-[Join the Meema Discord Server](https://discord.meema.io)
-
-## License 📄
-
-The MIT License (MIT). Please see [LICENSE](LICENSE.md) for more information.
-
-Made with ❤️ by Meema Labs.
